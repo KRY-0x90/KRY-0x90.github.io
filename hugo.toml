@@ -1,0 +1,8 @@
+baseURL = 'https://KRY-0x90.github.io/'
+languageCode = 'en-us'
+title = 'KRY-0x90 // Malware Analysis'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "dark" # عشان يبقى شكل هكرز من أولها
+    showCodeCopyButtons = true
